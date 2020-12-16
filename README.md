@@ -25,3 +25,4 @@ Curating the best projects that were made and mainly contributed by Tunisia deve
 # Libraries
 
 - https://github.com/mejdi14/Flat-Dialog-Android
+- http://hmoumni.com/svelte-Spinkit/
