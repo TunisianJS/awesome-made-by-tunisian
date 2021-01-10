@@ -11,6 +11,7 @@ Curating the best projects that were made and mainly contributed by Tunisia deve
 - TechWall (https://www.youtube.com/channel/UC_wmzB9ziSW5KbZxyDfZV_w)
 - Khaled Garbaya (https://www.youtube.com/channel/UC_XsS8kgD9Y64ZOug4YKhpw)
 - Oussama Bouthouri (https://www.youtube.com/channel/UC7o7oBQrf5NYkzkt5mTaF1g)
+- Ahmed Meftah (https://www.youtube.com/channel/UC2HWv-t82ttY76SVTBbOW3w)
 
 # Blogs
 
